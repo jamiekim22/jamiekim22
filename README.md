@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🇨🇦 I'm a 3rd year computer science + neuroscience at UBC  
+🇨🇦 I'm a 3rd year computer science + neuroscience student at UBC  
 👨‍🏫 Right now I'm tinkering with... a website for a submarine design club  
 ❤️ I'm passionate about making little fun coding projects  
 
