@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Jamie!
+## 🕺 Hi, I'm Jamie!
 
 <div align="center">
 
-🇨🇦 I'm a 3rd year computer science + neuroscience student at UBC  
+🍁 I'm a 3rd year computer science + neuroscience student at UBC  
 👨‍🏫 Right now I'm tinkering with... a website for a submarine design club  
-❤️ I'm passionate about making little fun coding projects  
+💜 I'm passionate about making fun little projects and music
 
 </div>
 
