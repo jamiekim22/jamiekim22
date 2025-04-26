@@ -4,7 +4,7 @@
 
 🍁 I'm a 3rd year computer science + neuroscience student at UBC  
 👨‍🏫 Right now I'm tinkering with... a website for a submarine design club  
-💜 I'm passionate about making fun little projects and music
+💜 I like to make fun little projects and music in my spare time
 
 </div>
 
