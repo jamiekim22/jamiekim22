@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="(https://media.discordapp.net/attachments/1301530394805534791/1303940265740075050/544069B5-179F-4439-ABCD-2B16C30E1A8C.gif?ex=6814f3c1&is=6813a241&hm=775fc367aaf706e40bfd6d1415dba631a965d12e171c87ff010b512acc2c631a&=&width=878&height=455)"  />
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1301530394805534791/1303940265740075050/544069B5-179F-4439-ABCD-2B16C30E1A8C.gif?ex=6814f3c1&is=6813a241&hm=775fc367aaf706e40bfd6d1415dba631a965d12e171c87ff010b512acc2c631a&=&width=878&height=455"  />
 
 ###
 
