@@ -3,7 +3,7 @@
 <div align="center">
 
 🍁 I'm a 3rd year computer science + neuroscience student at UBC  
-👨‍🏫 Right now I'm tinkering with... a website for a submarine design club  
+👨‍🏫 Right now I'm tinkering with... creating an interative 3D model of a brain
 💜 I like to make fun little projects and music in my spare time
 
 </div>
