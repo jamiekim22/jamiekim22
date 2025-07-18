@@ -3,7 +3,7 @@
 <div align="center">
 
 🍁 I'm a 3rd year computer science + neuroscience student at UBC  
-👨‍🏫 Right now I'm tinkering with... creating Neuronaut, an interative 3D anatomy explorer of the human brain  
+👨‍🏫 Right now I'm tinkering with... a sign language classifier and learning more about neural networks!  
 💜 I like to make fun little projects and music in my spare time
 
 </div>
